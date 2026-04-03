@@ -1,6 +1,6 @@
 # docsme-py
 
-> A Python implementation of docsme
+> A Python implementation of [docsme](https://github.com/lramos0/docsme)
 
 ![PyPI](https://img.shields.io/pypi/v/docsme)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
