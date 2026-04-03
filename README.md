@@ -4,7 +4,7 @@
 
 ![PyPI](https://img.shields.io/pypi/v/docsme)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
-![License](https://img.shields.io/github/license/yourname/docsme-py)
+![License](https://img.shields.io/github/license/lramos0/docsme-py)
 
 ---
 
