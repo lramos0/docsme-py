@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "docsme"
-version = "0.1.1"
+version = "0.1.2"
 description = "Generate a markdown yearly work summary prompt from git commits for a given username."
 readme = "README.md"
 requires-python = ">=3.9"
@@ -12,7 +12,7 @@ dependencies = [
   "pandas>=2.0.0",
 ]
 authors = [
-  {name = "OpenAI"}
+  {name = "lramos0"}
 ]
 
 [project.scripts]
